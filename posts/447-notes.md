@@ -17,4 +17,4 @@ Mou’s lecture material. The references for this course are [Ros06], [Law95], [
 [Ros06] Jeffrey S. Rosenthal. A First Look at Stochastic Processes. World Scientific, 2006.
 
 ## History:
-September r 22 2026: Uploaded first version of lecture notes
+September 22 2026: Uploaded first version of lecture notes
